@@ -57,4 +57,4 @@ O objetivo principal é auxiliar na prevenção de desastres naturais, fornecend
 ## Código Fonte
 
 ```c
-// Cole seu código Arduino aqui (ou link para arquivo .ino)
+https://www.tinkercad.com/things/4fFzA17tKbZ/editel?sharecode=qb3OrmANtSqrytPf15qAoTn0SsDck9Xze2bAMs99qWQ
